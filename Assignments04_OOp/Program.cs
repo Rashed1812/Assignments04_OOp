@@ -40,7 +40,7 @@
             #endregion
 
             #region 4.Create a derived class named Manager that overrides the Work method to print "Manager is managing". 
-            
+
             //Employee e1 = new Employee();
             //e1.Work();
 
@@ -49,7 +49,21 @@
 
             #endregion
 
+            #region 5.Create a base class BaseClass with a virtual method DisplayMessage that prints  "Message from BaseClass".
 
+            ////The method that gets called depends on the runtime type of the object (Runtime Blinding)
+            //BaseClass base1 = new DerivedClass1();
+            //base1.DisplayMessage();
+
+            //// from BaseClass (compile-time binding)
+            //BaseClass base2 = new DerivedClass2();
+            //base2.DisplayMessage();
+
+            ////from DerivedClass2
+            //DerivedClass2 derived2 = new DerivedClass2();
+            //derived2.DisplayMessage(); 
+
+            #endregion
 
         }
     }
