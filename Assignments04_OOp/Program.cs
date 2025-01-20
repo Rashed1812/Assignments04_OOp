@@ -26,6 +26,18 @@
 
             #endregion
 
+            #region 3.Define a class Complex Number that represents a complex number with real and imaginary parts.
+
+            //ComplexNumber c1 = new ComplexNumber(10, 20);
+            //ComplexNumber c2 = new ComplexNumber(5, 6);
+
+            //ComplexNumber sum = c1 + c2;
+            //ComplexNumber difference = c1 - c2;
+
+            //Console.WriteLine($"Sum: {sum}");
+            //Console.WriteLine($"Difference: {difference}"); 
+
+            #endregion
 
         }
     }
