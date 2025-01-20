@@ -39,6 +39,18 @@
 
             #endregion
 
+            #region 4.Create a derived class named Manager that overrides the Work method to print "Manager is managing". 
+            
+            //Employee e1 = new Employee();
+            //e1.Work();
+
+            //Manager m1 = new Manager();
+            //m1.Work(); 
+
+            #endregion
+
+
+
         }
     }
 }
