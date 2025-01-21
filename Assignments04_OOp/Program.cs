@@ -65,6 +65,52 @@
 
             #endregion
 
+            #region part02 3.
+
+            ////Duration d1 = new Duration(1,10,15);
+            ////Console.WriteLine(d1); 
+
+            //Duration d1 = new Duration(3600);
+            //Console.WriteLine(d1.ToString());
+
+            //Duration d2 = new Duration(7800);
+            //Console.WriteLine(d2.ToString());
+
+            //Duration d3 = new Duration(666);
+            //Console.WriteLine(d3.ToString());
+            //#endregion
+
+            //#region Part02 5.Operators Overloadding
+            //d3 = d1 + d2;
+            //Console.WriteLine(d3.ToString()); 
+
+            //d3 = d1 + 7800;
+            //Console.WriteLine(d3.ToString()); 
+
+            //d3 = 666 + d3;
+            //Console.WriteLine(d3.ToString()); 
+
+            //d3 = ++d1;
+            //Console.WriteLine(d3.ToString()); 
+
+            //d3 = --d2;
+            //Console.WriteLine(d3.ToString()); 
+
+            //d1 = d1 - d2;
+            //Console.WriteLine(d1.ToString());
+
+            //if (d1 > d2) { Console.WriteLine("D1 is greater than D2"); }
+            //else { Console.WriteLine("D1 is Less than D2"); }
+             
+            //if (d1 <= d2) { Console.WriteLine("D1 is less than or equal D2"); }
+          
+            //if (d1) { Console.WriteLine("D1 has a positive duration"); }
+            
+            //DateTime Obj = (DateTime)d1;
+            //Console.WriteLine($"DateTime: {Obj.ToLongTimeString()}");
+                #endregion
+
+
         }
     }
 }
